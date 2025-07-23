@@ -82,6 +82,11 @@ main hr {
   display: inline-block;
   text-decoration: none;
 }
+.right{
+    padding-bottom: 40px;
+    
+
+}
 
 .rightsection img {
   width: 100%;
